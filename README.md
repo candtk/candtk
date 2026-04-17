@@ -37,6 +37,7 @@ I build tools and applications across systems programming, IoT, and data analysi
 | [discord-vanity-reclaim](https://github.com/candtk/discord-vanity-reclaim) | High-performance vanity URL reclaim tool — dual HTTP/raw TCP socket claiming, custom TLS fingerprinting, goroutine amplification | Go, fasthttp, TLS |
 | [kivy-chess](https://github.com/candtk/kivy-chess) | Chess app with human vs human, Stockfish AI opponent, and online multiplayer via a Flask server | Python, Kivy, Flask |
 | [raspberry-pi-climate-monitor](https://github.com/candtk/raspberry-pi-climate-monitor) | Live temperature & humidity monitor with a Matplotlib chart and real-time Flask web dashboard | Python, Flask, DHT22 |
+| [tdee-meal-planner](https://github.com/candtk/tdee-meal-planner) | Personalised meal plan generator — Mifflin-St Jeor TDEE calculation, randomised daily plans, Flask API with Tailwind CSS frontend | Python, Flask, Tailwind CSS |
 
 ---
 
