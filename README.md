@@ -1,8 +1,6 @@
 # Can Deniz T. Kahraman
 
-**BEMACS Student @ Bocconi University**
-
-I build tools and applications across systems programming, IoT, and data analysis. Currently studying Bachelor in Economics, Management and Computer Science at Bocconi.
+Building performance-sensitive tools since 2021. BEMacs @ Bocconi University. Interested in low latency systems, networked applications, and IoT.
 
 ---
 
@@ -17,7 +15,6 @@ I build tools and applications across systems programming, IoT, and data analysi
 **Libraries & Frameworks**
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Kivy](https://img.shields.io/badge/Kivy-brightgreen?style=flat)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-59666C?style=flat)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 
@@ -33,11 +30,11 @@ I build tools and applications across systems programming, IoT, and data analysi
 
 | Project | Description | Stack |
 |---|---|---|
-| [managebac-analytics](https://github.com/candtk/managebac-analytics) | Unofficial Python client for ManageBac — CSRF auth, attendance automation, and NLP sentiment analysis on class discussions | Python, BeautifulSoup, TextBlob, Matplotlib |
-| [discord-vanity-reclaim](https://github.com/candtk/discord-vanity-reclaim) | High-performance vanity URL reclaim tool — dual HTTP/raw TCP socket claiming, custom TLS fingerprinting, goroutine amplification | Go, fasthttp, TLS |
-| [kivy-chess](https://github.com/candtk/kivy-chess) | Chess app with human vs human, Stockfish AI opponent, and online multiplayer via a Flask server | Python, Kivy, Flask |
-| [raspberry-pi-climate-monitor](https://github.com/candtk/raspberry-pi-climate-monitor) | Live temperature & humidity monitor with a Matplotlib chart and real-time Flask web dashboard | Python, Flask, DHT22 |
-| [tdee-meal-planner](https://github.com/candtk/tdee-meal-planner) | Personalised meal plan generator — Mifflin-St Jeor TDEE calculation, randomised daily plans, Flask API with Tailwind CSS frontend | Python, Flask, Tailwind CSS |
+| [discord-vanity-reclaim](https://github.com/candtk/discord-vanity-reclaim) | High-performance Go tool using raw TCP socket pooling and fasthttp for latency-critical URL reclamation | Go |
+| [managebac-analytics](https://github.com/candtk/managebac-analytics) | Reverse-engineered unofficial ManageBac API via network traffic interception — session auth, attendance automation, NLP sentiment analysis | Python |
+| [raspberry-pi-climate-monitor](https://github.com/candtk/raspberry-pi-climate-monitor) | Live temperature & humidity IoT monitor with real-time Flask dashboard and Matplotlib visualisation | Python, Flask, DHT22 |
+| [pi-epaper-image-gallery](https://github.com/candtk/pi-epaper-image-gallery) | Web app for uploading and displaying images on a Waveshare e-Paper display — approval queue and image processing pipeline | Python, Flask, Pillow |
+| [kivy-chess](https://github.com/candtk/kivy-chess) | Multiplayer chess app with Stockfish AI opponent and online play | Python, Kivy, Flask |
 
 ---
 
