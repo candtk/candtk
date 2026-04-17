@@ -34,6 +34,7 @@ Building performance-sensitive tools since 2021. BEMacs @ Bocconi University. In
 | [managebac-analytics](https://github.com/candtk/managebac-analytics) | Reverse-engineered unofficial ManageBac API via network traffic interception — session auth, attendance automation, NLP sentiment analysis | Python |
 | [raspberry-pi-climate-monitor](https://github.com/candtk/raspberry-pi-climate-monitor) | Live temperature & humidity IoT monitor with real-time Flask dashboard and Matplotlib visualisation | Python, Flask, DHT22 |
 | [pi-epaper-image-gallery](https://github.com/candtk/pi-epaper-image-gallery) | Web app for uploading and displaying images on a Waveshare e-Paper display — approval queue and image processing pipeline | Python, Flask, Pillow |
+| [tdee-meal-planner](https://github.com/candtk/tdee-meal-planner) | Personalised meal plan generator — Mifflin-St Jeor TDEE calculation, randomised daily plans, Flask API with Tailwind CSS frontend | Python, Flask, Tailwind CSS |
 | [kivy-chess](https://github.com/candtk/kivy-chess) | Multiplayer chess app with Stockfish AI opponent and online play | Python, Kivy, Flask |
 
 ---
